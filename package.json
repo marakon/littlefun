@@ -1,0 +1,11 @@
+{
+  "name": "littlefun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marakon/littlefun.git",
+  "author": "Marakon <mateuszosinski96@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-scripts": "^2.1.3"
+  }
+}
